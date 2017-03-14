@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1421173307 source:c:\temp\delete\prog\deck transperant\transperant.cpp
+	<simplecpp>
+
+1421173648 source:c:\temp\delete\prog\deck transperant\opaque.cpp
+	<simplecpp>
+

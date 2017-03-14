@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1420812973 source:c:\temp\delete\prog\turtle1\untitled1.cpp
+	<simplecpp>
+	<iostream>
+	<cmath>
+
+1420813211 source:c:\temp\delete\prog\turtle1\d.cpp
+	<simplecpp>
+	<iostream>
+	<cmath>
+

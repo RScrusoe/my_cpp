@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1420838938 source:c:\temp\delete\prog\d\d.cpp
+	<simplecpp>
+	<iostream>
+	<cmath>
+

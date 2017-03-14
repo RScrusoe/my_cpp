@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/05/15 10:59:38.000.676,=C:\Ck2000\dist\Borland\chilkat-9.3.1-bcc-xe2\linkSample.cpp</Transaction>
+    <Transaction>2012/05/15 10:59:57.000.676,C:\Documents and Settings\Chilkat\My Documents\RAD Studio\Projects\Project1.cbproj=C:\Ck2000\dist\Borland\chilkat-9.3.1-bcc-xe2\LinkSample.cbproj</Transaction>
+    <Transaction>2012/05/15 11:05:55.000.363,=C:\Ck2000\dist\Borland\chilkat-9.3.1-bcc-xe2\chilkatXE2.lib</Transaction>
+  </Transactions>
+</BorlandProject>
